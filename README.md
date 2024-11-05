@@ -1,6 +1,8 @@
-## Hey there,
+# Vanilla JavaScript + Tailwind CSS
 
 This is Vanilla JavaScript + Tailwind CSS template.
+
+## Usage
 
 Use this template via `@pr4j3sh/frames`:
 
@@ -16,7 +18,7 @@ Run the app using:
 npm run dev
 ```
 
-**Read more**
+## Read more
 
 - [Vite Documentation](https://vite.dev/guide/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/utility-first)
