@@ -7,7 +7,7 @@ This is Vanilla JavaScript + Tailwind CSS template.
 Use this template via `@pr4j3sh/frames`:
 
 ```bash
-npm create @pr4j3sh/frames js-tw myapp
+npm create @pr4j3sh/frames@latest js-tw myapp
 ```
 
 > You can replace `myapp` with the choice of your name.
