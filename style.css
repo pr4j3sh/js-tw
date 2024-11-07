@@ -11,7 +11,7 @@ svg {
 }
 
 .container {
-  @apply m-auto max-w-lg flex flex-col gap-4 h-screen;
+  @apply m-auto max-w-lg flex flex-col gap-4 h-screen px-2 md:px-0;
 }
 
 nav {
@@ -31,7 +31,7 @@ code {
 }
 
 blockquote {
-  @apply border-l-gray-200 dark:border-l-gray-800  border-l-4 pl-2;
+  @apply border-l-gray-300 dark:border-l-gray-800  border-l-4 pl-2;
 }
 
 li a {
