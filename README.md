@@ -1,6 +1,6 @@
 # Vanilla JavaScript + Tailwind CSS
 
-This is Vanilla JavaScript + Tailwind CSS template.
+This is Vanilla Javascript + Tailwind CSS template with dark/light theme mode and svg icons support with Icones.
 
 ## Usage
 
@@ -22,4 +22,5 @@ npm run dev
 
 - [Vite Documentation](https://vite.dev/guide/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/utility-first)
+- [Icones](https://icones.js.org/)
 - [@pr4j3sh/frames](https://github.com/pr4j3sh/frames)
