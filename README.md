@@ -1,6 +1,6 @@
 # Vanilla JavaScript + Tailwind CSS
 
-This is Vanilla Javascript + Tailwind CSS template with dark/light theme mode, svg icons support with Icones, pre-styled components and fully responsive.
+This is Vanilla Javascript + Tailwind CSS template with dark/light theme mode, svg icons support with Icones, pre-styled components, fully responsive and SEO friendly.
 
 ## Usage
 
