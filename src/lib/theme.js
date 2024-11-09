@@ -21,7 +21,6 @@ toggleButton.addEventListener("click", () => {
   toggleButton.innerHTML = theme === "dark" ? darkIcon : lightIcon;
 });
 
-// Listen for system theme changes if no manual preference is set
 window
   .matchMedia("(prefers-color-scheme: dark)")
   .addEventListener("change", (e) => {

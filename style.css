@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-50 text-gray-950 dark:bg-gray-950 dark:text-gray-50;
+  @apply bg-gray-50 text-gray-950 dark:bg-gray-950 dark:text-gray-50 transition-all ease-in-out;
 }
 
 svg {
@@ -43,15 +43,15 @@ hr {
 }
 
 button {
-  @apply py-1.5 px-4 bg-gray-900 text-gray-50 rounded-lg font-semibold border border-gray-200 dark:border-gray-800;
+  @apply py-1.5 px-4 bg-gray-900 hover:bg-gray-800 text-gray-50 rounded-lg font-semibold border border-gray-200 dark:border-gray-800 dark:bg-gray-50 dark:text-gray-900 hover:dark:bg-gray-200;
 }
 
 .secondary {
-  @apply bg-gray-100 text-gray-950 dark:bg-gray-900 dark:text-gray-50;
+  @apply bg-gray-100 hover:bg-gray-200 text-gray-950 dark:bg-gray-900 dark:text-gray-50 hover:dark:bg-gray-800;
 }
 
 .icon {
-  @apply p-1.5 bg-gray-100 text-gray-950 dark:bg-gray-900 dark:text-gray-50;
+  @apply p-1.5 bg-gray-100 hover:bg-gray-200 text-gray-950 dark:bg-gray-900 dark:text-gray-50 hover:dark:bg-gray-800;
 }
 
 section {
