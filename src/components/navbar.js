@@ -4,7 +4,7 @@ const component = `<nav>
 <a href="/" class="font-semibold">${SITE.REPO}</a>
         <ul>
           <li>
-            <button class="icon" id="theme-toggle"></button>
+            <button class="icon" id="theme-toggle">Theme</button>
           </li>
         </ul>
       </nav>`;
